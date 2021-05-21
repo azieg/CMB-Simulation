@@ -1,8 +1,2 @@
-# Cosmology-II-Project
-Milestone1 - Background cosmology
-
-Milestone2 - Recombination history
-
-Milestone3 - Structure evolution in the Universe
-
-Milestone4 - The CMB and matter power-spectra
+CMB Simulation
+Simulates the background cosmology, recombination history, and structure evolution of the universe to produce the CMB and matter power-spectra.
